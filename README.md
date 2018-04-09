@@ -1,4 +1,4 @@
-# webcam mouse
+# Webcam Mouse
 Control your mouse using your webcam
 
 **Requirements
