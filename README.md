@@ -25,5 +25,7 @@ Got a question?
 
 
 -Knowledge-
+
+
 You can do the project using vmware and ubuntu 16.04.You also need to load these resources with the order of pyautogui, thread, numpy, cv2, kernel error.
 
